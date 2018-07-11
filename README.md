@@ -1,2 +1,2 @@
-# rogue-pickings
-Site made from PSD with HTML and CSS
+# Rogue Pickings Website
+Site made from PSD using HTML and CSS
